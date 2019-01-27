@@ -11,6 +11,14 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 
 # Authors
 authors:
+  vrom1990:
+    name: Вячеслав Романьков
+    display_name: Вячеслав Романьков
+    gravatar: ae4cd564c09c6cf55cb615fa0c2f3ef4
+    email: mail@vrom1990.ru
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/wowthemesnet
+    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   sal:
     name: Sal
     display_name: Sal
