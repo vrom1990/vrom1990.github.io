@@ -63,7 +63,7 @@ description: >-
 
 2D-игра (кликните по ней, затем используйте стрелки  для управления, нажмите на значок сверху, чтобы перезагрузить):
 
-<iframe src="https://www.openprocessing.org/sketch/594153/embed/" width="400" height="400"></iframe>
+<iframe src="https://www.openprocessing.org/sketch/594153/embed/" width="600" height="600"></iframe>
 
 больше игр [здесь](https://www.openprocessing.org/curation/25/).
 
