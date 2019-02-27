@@ -60,6 +60,13 @@ description: >-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r_p5u_CX9UI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+2D-игра (используйте стрелки и пробел для управления):
+
+<iframe src="https://www.openprocessing.org/sketch/102276/embed/" width="800" height="600"></iframe>
+
+больше игр [здесь](https://www.openprocessing.org/curation/25/).
+
 Я не зря добавил проекты, сделанных для Android. Библиотека Processing есть и для других популярных языков программирования, в частности Python, Java и **Java для Android**. Таким образом, закончившие мой курс смогут изучить их самостоятельно, выполняя просто выполняя те же проекты, что они делали на курсе.
 
 ### Индивидуальный подход и мотивация
