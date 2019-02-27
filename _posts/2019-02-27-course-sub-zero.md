@@ -44,8 +44,23 @@ description: >-
 - [простейший графический редактор](https://vrom1990.ru/p5js-examples/draw/)
 - [графический редактор посложнее](https://vrom1990.ru/p5js-examples/draw-extended/)
 - [интерактивная инфографика](https://vrom1990.ru/p5js-examples/infografics/)
-- [редактор интерфейса](https://vrom1990.ru/p5js-examples/pacman/)
+- [Пример интерфейса посложнее](https://vrom1990.ru/p5js-examples/pacman/)
 - [пример генерируемого дизайна](https://vrom1990.ru/p5js-examples/fractal/index.html)
+
+При этом это уровень для начинающих. Люди, которые продолжат практиковаться самостоятельно после курса, либо будут вкладывать больше времени и сил на самом курсе, смогут достичь такого уровня:
+
+Визаулизатор музыки:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gHpxRv4MBBA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Визуализатор движения маятников:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IR63rgMqClE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+3D-игра:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_p5u_CX9UI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ### Индивидуальный подход и мотивация
 
