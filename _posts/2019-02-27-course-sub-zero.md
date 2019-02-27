@@ -61,9 +61,9 @@ description: >-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r_p5u_CX9UI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-2D-игра (используйте стрелки и пробел для управления):
+2D-игра (используйте стрелки  для управления):
 
-<iframe src="https://www.openprocessing.org/sketch/102276/embed/" width="800" height="600"></iframe>
+<iframe src="https://www.openprocessing.org/sketch/594153/embed/" width="500" height="500"></iframe>
 
 больше игр [здесь](https://www.openprocessing.org/curation/25/).
 
