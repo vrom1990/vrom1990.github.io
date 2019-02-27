@@ -40,11 +40,12 @@ description: >-
 
 - [игра «Пинг-понг»](https://vrom1990.ru/p5js-examples/pingpong/)
 - [простейший слайдер](https://vrom1990.ru/p5js-examples/simple-slider/)
-- слайдер посложнее
+- [слайдер посложнее](https://vrom1990.ru/p5js-examples/slider-with-buttons/)
 - [простейший графический редактор](https://vrom1990.ru/p5js-examples/draw/)
 - [графический редактор посложнее](https://vrom1990.ru/p5js-examples/draw-extended/)
 - [интерактивная инфографика](https://vrom1990.ru/p5js-examples/infografics/)
-- редактор интерфейса
+- [редактор интерфейса](https://vrom1990.ru/p5js-examples/pacman/)
+- [пример генерируемого дизайна](https://vrom1990.ru/p5js-examples/fractal/index.html)
 
 ### Индивидуальный подход и мотивация
 
