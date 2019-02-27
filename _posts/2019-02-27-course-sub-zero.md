@@ -61,7 +61,7 @@ description: >-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r_p5u_CX9UI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-2D-игра (используйте стрелки  для управления):
+2D-игра (кликните по ней, затем используйте стрелки  для управления, нажмите на значок сверху, чтобы перезагрузить):
 
 <iframe src="https://www.openprocessing.org/sketch/594153/embed/" width="400" height="400"></iframe>
 
@@ -119,4 +119,3 @@ description: >-
 - Понимание, что программирование — это увлекательно, а значит, дополнительную мотивацию его изучать.
 - Собственное онлайн-портфолио.
 - Сертификат об окончании обучения.
-
