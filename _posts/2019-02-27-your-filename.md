@@ -1,10 +1,8 @@
 ---
-published: false
+published: true
 layout: post
 author: vrom1990
-categories:
-  - Jekyll
-  - tutorial
+categories: nonr
 image: assets/images/thermometer-751422_1920.jpg
 title: 'Программирование с -10 / для тех, кто даже не знает, с чего начать'
 ---
