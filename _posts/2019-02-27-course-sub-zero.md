@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: vrom1990
-categories: nonr
+categories: none
 image: assets/images/thermometer-751422_1920.jpg
 title: 'Программирование с -10 / для тех, кто даже не знает, с чего начать'
 ---
