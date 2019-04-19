@@ -6,7 +6,7 @@
     
 <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.ico">
     
-<title>{{ page.title }} | {{site.name}}</title>
+<title>{% if page.title %}{{ page.title }} | {% endif %}{{site.name}}</title>
     
 {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %} 
     
