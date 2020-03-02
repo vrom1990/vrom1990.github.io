@@ -7,8 +7,27 @@ layout: default
     
     <div class="section-title">
         
-        <h2><span>Категория: {{ page.tag }}</span></h2>
+        <h2><span>Категория: {% case page.tag %}
+
+            {% when "none" %}
+
+             Без категории
+
+            {% when "category2" %}
+
+              <a href="/category2">Name2</a>
+
+              {% when "category3" %}
+
+              <a href="/category3">Name3</a>
+
+            {% else %}
+
+        <span></span>
+
+          {% endcase %}</span></h2>
         
+
     </div>
     
     <div class="row listrecent">
