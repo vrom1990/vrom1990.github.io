@@ -6,7 +6,6 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-46278016-1'
-disqus: 'vrom1990-ru'
 permalink: /:title/
 
 # Authors
