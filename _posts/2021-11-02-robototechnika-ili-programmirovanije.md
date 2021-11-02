@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Программирование или робототехника —\_куда отдать ребёнка?"
 description: Чем они отличаются?
 ---
