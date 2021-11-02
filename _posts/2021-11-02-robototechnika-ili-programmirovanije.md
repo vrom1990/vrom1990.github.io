@@ -2,7 +2,7 @@
 published: true
 title: "Программирование или робототехника —\_куда отдать ребёнка?"
 description: Чем они отличаются?
-image: /_posts/robots-3492099_640.jpg
+image: /assets/images/robots-3492099_640.jpg
 ---
 ![robots-3492099_640.jpg]({{site.baseurl}}/assets/images/robots-3492099_640.jpg)
 
