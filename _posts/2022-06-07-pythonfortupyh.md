@@ -12,4 +12,4 @@ title: Мой курс «Программирование на Python „для 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmn7h9eyDeMPoilIag3EXMiBpl38KDgud" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 На Вебархиве
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmn7h9eyDeMPoilIag3EXMiBpl38KDgud" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/python-tupyh" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
