@@ -6,7 +6,7 @@ title: Мой курс «Программирование на Python „для 
 ---
 Запустил видеокурс, который ну совсем медленно вводит в программирование на Python. Подходит для тех, кто «совсем не бумбум» или кто не понял какие-то отдельные вещи
 
-![«Для тупых».png]({{site.baseurl}}/_posts/«Для тупых».png)
+![«Для тупых».png]({{site.baseurl}}/images/«Для тупых».png)
 
 Ну Ютубе:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmn7h9eyDeMPoilIag3EXMiBpl38KDgud" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
