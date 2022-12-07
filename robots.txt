@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow /p5js/*
+Disallow /p5js-examples/*
+
+Host:https://vrom1990.ru
+Sitemap: https://vrom1990.ru/sitemap.xml
