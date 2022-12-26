@@ -2,6 +2,8 @@
 published: false
 ---
 ---
+title: Ребёнку не понравилось программирование — что делать?
+description: Без паники! Ещё не всё потеряно
 published: false
 ---
 
