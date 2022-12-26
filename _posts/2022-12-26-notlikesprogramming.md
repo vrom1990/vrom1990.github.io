@@ -2,7 +2,7 @@
 published: false
 ---
 ---
-published: False
+published: false
 ---
 
 # Ребёнку не понравилось программирование — что делать?
