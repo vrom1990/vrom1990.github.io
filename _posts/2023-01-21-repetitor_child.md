@@ -106,7 +106,7 @@ featured: true
 
 Есть немного.
 
-![]({{site.baseurl}}/images/spr1diplom.png)
+![]({{site.baseurl}}/images/spr1diplom.jpg)
 
 ![]({{site.baseurl}}/images/spr2.png)
 
