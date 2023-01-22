@@ -96,9 +96,9 @@ featured: true
 
 ## 🤩 Отзывы 
 
-![]({{site.baseurl}}/images/otzyv1.jpg)
+![]({{site.baseurl}}/images/otzyv1.png)
 
-![]({{site.baseurl}}/images/otzyv2.jpg)
+![]({{site.baseurl}}/images/otzyv2.png)
 
 [https://nsk.profi.ru/profile/RomankovVN/](https://nsk.profi.ru/profile/RomankovVN/)
 
@@ -106,13 +106,13 @@ featured: true
 
 Есть немного.
 
-![]({{site.baseurl}}/images/spr1diplom.jpg)
+![]({{site.baseurl}}/images/spr1diplom.png)
 
-![]({{site.baseurl}}/images/spr2.jpg)
+![]({{site.baseurl}}/images/spr2.png)
 
-![]({{site.baseurl}}/images/spr3.jpg)
+![]({{site.baseurl}}/images/spr3.png)
 
-![]({{site.baseurl}}/images/spr4.jpg)
+![]({{site.baseurl}}/images/spr4.png)
 
 
 ## ☎️ Контакты
