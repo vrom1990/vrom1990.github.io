@@ -96,7 +96,7 @@ featured: true
 
 ## 🤩 Отзывы 
 
-![]({{site.baseurl}}/images/otzyv1.png)
+![]({{site.baseurl}}/images/otztv1.png)
 
 ![]({{site.baseurl}}/images/otzyv2.png)
 
