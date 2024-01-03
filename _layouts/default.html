@@ -159,7 +159,8 @@
         {% assign tags_list = nil %}
 
 	{% for category in site.category %}
-		<a href="{{ site.baseurl }}/category/{{ category.slug }}">{{ category.tag | capitalize }} ({{ site.category[category].size }})</a>
+		{% assign posts_list = category %}  	
+		<a href="{{ site.baseurl }}/category/{{ category.slug }}">{{ category.tag | capitalize }} ({{ posts_list.size }})</a>
 	{% endfor %}
 		</div>
 	</div>
