@@ -158,6 +158,9 @@
           {% endif %}
         {% assign tags_list = nil %}
 
+	{% for category in site.category %}
+  	<h2>{{ category.name }} - {{ category.slug }}</h2>
+	{% endfor %}
 		</div>
 	</div>
 </div>
