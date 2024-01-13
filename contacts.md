@@ -1,1 +1,3 @@
-[Пишите в Telegram, Whatsapp](https://vrom1990.profeat.site)
+- [Телеграм](https://t.me/%2B37491170870)
+- [WhatsApp](https://wa.me/send?phone=%2B37491170870&text=)
+- [Email](mailto:vrom1990@yandex.ru)
