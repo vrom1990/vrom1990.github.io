@@ -1,7 +1,7 @@
 # Site
-name: "Сайт Вячеслава Романькова"
-description: "Преподавателя  программирования"
-meta_description: "Репетитор, преподаватель рограммирования для всех"
+name: "Вячеслав Романьков"
+description: "Репетитор программирования"
+meta_description: "Вы можете программировать, и я помогу в этом убедиться"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
