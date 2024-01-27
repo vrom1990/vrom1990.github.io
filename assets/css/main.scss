@@ -8,6 +8,10 @@
 	display:inline;
 }
 
+li.btn-danger{
+	color:#fff
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax"
