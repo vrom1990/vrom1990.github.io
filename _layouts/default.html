@@ -80,12 +80,20 @@
                 <a class="nav-link" href="{{ site.baseurl }}/">Блог</a>
                 </li>
                 
-                {% if page.url == "/about.html" %}
+                {% if page.url == "/about" %}
                 <li class="nav-item active">
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/about">Обо мне</a>
+                </li>
+
+		{% if page.url == "/feedbacks" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/feedbacks">Обо мне</a>
                 </li>
 
 		 {% if page.url == "/contacts" %}
