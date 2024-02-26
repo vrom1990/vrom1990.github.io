@@ -26,11 +26,9 @@ published: true
 
 [Кира](https://nsk.profi.ru/profile/RomankovVN/)
 
-![]({{site.baseurl}}/images/otztv1.png)
+> Решили попробовать несколько занятий и остались довольны. В итоге сын с удовольствием и желанием занимается с Вячеславом. Программирует, пишет код, как раз хотели не просто развлекаться, а именно учиться. Рада, что преподаватель нашел общий язык с сыном, потому что в жизни ребенок избирателен в общении, не очень коммуникабельный. Рекомендуем!
 
-![]({{site.baseurl}}/images/otzyv2.png)
-
-[https://nsk.profi.ru/profile/RomankovVN/](https://nsk.profi.ru/profile/RomankovVN/)
+[Ирина Александровна](https://www.avito.ru/baykit/predlozheniya_uslug/repetitor_po_programmirovaniyu_dlya_detey_i_vzroslyh_1867386540)
 
 ## Отзывы взрослых о курсе «Python „для тупых“»
 
