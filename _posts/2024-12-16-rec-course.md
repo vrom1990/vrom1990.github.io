@@ -6,7 +6,7 @@ featured: true
 title: Курс по рекурсии как «для тупых»
 ---
 Если рекурсия кажется вам чем-то сложным и непостижимым, то выполнив все практические занятия, вы обнаружите, что это довольно-таки простая штука:
-
+<iframe width="1006" height="566" src="https://www.youtube.com/embed/dtYQ60afr94" title="Рекурсия в Python: как разобраться и научиться использовать? Бесплатное видео с курса" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![]({{site.baseurl}}/images/recobloj.webp)
 
