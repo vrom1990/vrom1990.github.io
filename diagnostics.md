@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Запишитесь на бесплатное тестовое задание!
+title: Запишитесь на бесплатное пробное занятие !
 comments: true
 published: true
 ---
