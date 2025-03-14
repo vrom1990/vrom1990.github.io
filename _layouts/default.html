@@ -80,6 +80,14 @@
                 <a class="nav-link" href="{{ site.baseurl }}/">Блог</a>
                 </li>
 
+		{% if page.url == "/courses" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/courses">Курсы</a>
+                </li>
+		    
 		{% if page.url == "/club" %}
                 <li class="nav-item active">
                 {% else %}
