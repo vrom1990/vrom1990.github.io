@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "\U0001F510 Клуб по подписке: программирование без занудства"
+title: Мои клубы
 comments: true
 published: true
 ---
