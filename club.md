@@ -6,6 +6,7 @@ published: true
 ---
 
 У меня два клуба-чата в Telegram — 
+
 1.Чат «Тупые вопросы по Python»
 2.Клуб по подписке: Python и JavaScript
 
