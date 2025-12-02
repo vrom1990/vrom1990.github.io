@@ -2,7 +2,7 @@
 published: true
 title: Репетитор программирования для взрослых
 image: /images/entrepreneur-593371_960_720.jpg
-featured: true
+featured: false
 description: >-
   Познакомьтесь с программированием, выйдите из тупика, поймите то, что никак не
   можете понять
